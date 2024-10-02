@@ -15,9 +15,9 @@ public class NumberOfNumbers {
                 break;
             }
             
-            if(num >= 0) {
-                total += 1;
-            }          
+
+            total += 1;
+                     
         }
         System.out.println("Numbers of numbers: " + total);
     }
